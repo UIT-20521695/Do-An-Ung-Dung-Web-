@@ -1,6 +1,7 @@
 Nhóm 4:
 - Nguyễn Đức Nam Phương -19522061
 - Hoàng Thanh Lâm - 20521513
+- Lê Trọng Nhân - 20521695
 
 
 Các Chức Năng Chính: 
